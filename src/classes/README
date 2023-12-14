@@ -1,0 +1,4 @@
+Entity can be fought with items, can't be merged with items
+
+Items can merge together if we find an index of the recipy in the recipy list
+
